@@ -46,12 +46,14 @@
 /* Body */
 body {
     background-color: #FFFFFF;
-    margin: 0;
-    background-image: url(../small2.gif);
+    background-image: url(./small2.gif);
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-size: 100% 100%;
-    background-origin: padding-box;
+    background-size: 100%;
+    background-position: center;
+    height: 100%;
+    
+
 }
 /* Container */
 .container {
@@ -118,7 +120,7 @@ header {
     border-radius: 2px;
     padding-top: 10px;
     border: 4px solid #09545E;
-    background-image: url(../background5.gif);
+    background-image: url(./background5.gif);
     margin-bottom: 10px;
     background-repeat: repeat;
     background-attachment: fixed;
