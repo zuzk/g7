@@ -1,19 +1,5 @@
-header
-{margin-top: 10px;
-margin-right: auto;
-margin-left: auto;
-margin-bottom: 30px;
-text-align: center;
-padding: 0 10px;}
 
-header h1
-{font-weight: normal;
-margin-bottom: 12px;
-font-size: 40px;
-margin-top: 10px;}
-
-
-.container
+.container2
 {
 background-image: url(./blur2.png);
 width: 360px;
@@ -23,19 +9,6 @@ margin-right: auto;
 margin-left: auto;
 }
 
-.body
-{
-background-image: url(./background2.gif);
-background-repeat: no-repeat;
-background-attachment: fixed; 
-background-size: 100% 100%;
-font-weight: normal;
-margin-right: auto;
-margin-left: auto;
-align-content: center;
-align-self: center;
-
-}
 
 .stop1 {
 	background:linear-gradient(to bottom, #39948c 5%, #116975 100%);
