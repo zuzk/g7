@@ -41,17 +41,16 @@
   box-sizing: border-box;
 }
 
+/*background-image: url(../small2.gif);*/
+/* background-repeat: no-repeat;*/
+/* background-size: 100%;*/
+/* background-position: center;*/
 
 @charset "UTF-8";
 /* Body */
 body {
     background-color: #FFFFFF;
-    background-image: url(../small2.gif);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: center;
     height: auto;
-    
 }
 /* Container */
 .container {
