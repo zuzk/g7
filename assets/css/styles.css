@@ -101,16 +101,16 @@ header {
     /* [disabled]min-width: 400px;*/
     padding-bottom: 35px;
     padding-top: 0px;
-    margin-top: -5px;
-    margin-bottom: 0px;
-    background-image: url(url);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .thumbnail {
     width: auto;
     text-align: center;
     float: left;
-    margin-top: 1px;
     background-color: #F8F8F8;
     padding-bottom: 5px;
     margin-left: 1%;
@@ -120,6 +120,7 @@ header {
     border: 4px solid #09545E;
     background-image: url(../background5.gif);
     margin-bottom: 10px;
+    margin-top: 10px;
     background-repeat: repeat;
     background-attachment: fixed;
     color: hsla(0,0%,100%,1.00);
@@ -130,10 +131,7 @@ header {
     background-origin: padding-box;
 }
 
-.gallery {
-    width: 80%;
 
-}
 .gallery .thumbnail h4 {
 	margin-top: 5px;
 	margin-bottom: 5px;
@@ -143,10 +141,9 @@ header {
 	padding-right: 15px;
 }
 .gallery .thumbnail p {
-	margin: 0;
+	margin: auto;
 	color: #B3B3B3;
 	text-align: left;
-	padding-left: 20px;
 }
 /* More info */
 .intro {
