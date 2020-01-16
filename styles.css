@@ -119,12 +119,10 @@ box-shadow:0px 0px 0px rgba(50, 50, 50, 0.75);
 {
 background-image: url(./blur2.png);
 width: 90%;
-height: auto;
 padding-bottom: 40px;
 margin-top: 25px;
 margin-right: auto;
 margin-left: auto;
-text-align: center;
 float: center;
 
 }
@@ -134,7 +132,7 @@ float: center;
     display: inline-block;
     width: 40%;
     padding-bottom: 35px;
-    padding-top: auto;
+    padding-top: 10px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -240,7 +238,6 @@ float: center;
     margin-right: 20px;
 }
 
-
 .thumbnail6 {
     float: right;
     margin-left: 100%;
@@ -322,9 +319,7 @@ float: center;
     background-image: url(url);
     background-color: hsla(0,0%,0%,1.00);
     width: 50%;
-    margin-top: auto;
     margin-right: auto;
-    margin-bottom: 8px;
     margin-left: auto;
     border: 3px solid hsla(0,0%,100%,1.00);
     line-height: 12px;
