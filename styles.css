@@ -115,22 +115,11 @@ box-shadow:0px 0px 0px rgba(50, 50, 50, 0.75);
 
 
 
-.container5
-{
-background-image: url(./blur2.png);
-width: 90%;
-padding-bottom: 40px;
-margin-top: 25px;
-margin-right: auto;
-margin-left: auto;
-float: center;
-
-}
 
 .gallery5 {
     clear: both;
     display: inline-block;
-    width: 40%;
+    width: auto;
     padding-bottom: 35px;
     padding-top: 10px;
     margin-left: 20px;
@@ -140,7 +129,7 @@ float: center;
 
 .thumbnail5 {
     float: left;
-    margin-left: 100%;
+    margin-left: auto;
     margin-right: 100%;
     margin-top: 1px;
     border-radius: 2px;
@@ -190,8 +179,8 @@ float: center;
     top: auto;
     left: auto;
     bottom: auto;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 15px;
+    margin-right: 15px;
     margin-top: 5px;
     margin-bottom: 15px;
 }
@@ -231,7 +220,7 @@ float: center;
 .gallery6 {
     clear: both;
     display: inline-block;
-    width: 40%;
+    width: auto;
     padding-bottom: 35px;
     padding-top: auto;
     margin-left: 20px;
@@ -241,7 +230,7 @@ float: center;
 .thumbnail6 {
     float: right;
     margin-left: 100%;
-    margin-right: 100%;
+    margin-right: auto;
     margin-top: 1px;
     border-radius: 2px;
     border: 4px solid #09545E;
@@ -290,8 +279,8 @@ float: center;
     top: auto;
     left: auto;
     bottom: auto;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 15px;
+    margin-right: 15px;
     margin-top: 5px;
     margin-bottom: 15px;
 }
